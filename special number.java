@@ -1,4 +1,5 @@
  /*A special numer is a number if the sum of the factorial of digits of a number (N) is equal to the number itself.
+ This programs give whether a given number is special number or not
  for example 145 is a special number 1!+4!+5!=145
  154 is not a special number 1!+5!+4!=145*/
  
